@@ -49,6 +49,7 @@
     body {
         padding: 16px 0 0 60px;
         font-size: 18px;
+        background-color: white;
     }
     .barra-superior span {
         font-size: 24px;
@@ -70,6 +71,7 @@
     body {
         padding: 80px 8px 0 8px;
         font-size: 19px;
+        background-color: white;
     }
     .barra-superior {
         padding: 8px 0;
